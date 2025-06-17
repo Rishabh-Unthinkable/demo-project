@@ -3,7 +3,7 @@ export default function Home() {
   return (
     <div>
       
-    <h1>This is an image</h1>    
+    <h1>This is Home page of NextJs app</h1>    
     </div>
   );
 }
