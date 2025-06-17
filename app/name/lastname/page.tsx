@@ -1,3 +1,3 @@
 export default function lastname(){
-    return <div>last name of name</div>
+    return <div>This is last name</div>
 }
